@@ -1,0 +1,11 @@
+* {
+    /* garante que os elementos respeitem as dimensoes quando possuem padding e border. */  
+
+     box-sizing: border-box ;
+
+}
+
+body {
+    font-family: 'Arial' , sans-serif;
+    margin: 0;
+}

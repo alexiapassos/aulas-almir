@@ -1,0 +1,132 @@
+.container {
+    padding: 15px;
+    width: 450px;
+    height: 600px;
+    background:#fff;
+    border-radius:10px;
+    margin-left: 30px;
+}
+.conteudo{
+    display: flex;
+    justify-content:space-around;
+}
+
+
+
+h1 {
+    
+    color: #FFFFFF;
+}
+
+.email {
+    color: #FFFFFF;
+    width: 300;
+    border-radius: 16px
+    
+}
+
+.senha {
+    color: #FFFFFF;
+}
+
+.conectado {
+    color: #FFFFFF;
+}
+
+
+table {
+    
+    border-radius: 6px;
+    width: 500px;
+    height: 500px;
+    text-align: left;
+    
+}
+
+.titulo {
+        font-size: 30px;
+        font-weight: 800;
+
+}
+
+.itens {
+
+    font-weight:600;
+}
+
+.info {
+    color:  #6c757d;
+    font-weight: 300;
+
+}
+
+
+:hover.botao2 {
+    background-color: #fff;
+}
+
+.botao2 {
+    border-color: transparent;
+    background-color: #f6ca2d;
+    color: #333;
+    border-radius: 5px;
+    width:270;
+    height:45px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+  
+
+}
+
+.bolsa {
+    font-size: 19px;
+    font-weight: 800;
+    color: #008CB1;
+}
+
+body {
+
+    background-color: #0f637a;
+    font-family: 'Poppins'; /* fallback */
+    text-align: center;
+
+
+}
+
+.container-pricipal{
+    display: flex;
+    justify-content: center;
+}
+
+.conteudo-pricipal{
+    width: 650px;
+    height:auto;
+}
+
+.info-user{
+width: 400px;
+height: 40px;
+border-radius: 6px;
+border: none;
+
+}
+textarea:focus, input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+
+
+:hover.botao1{
+    background-color: rgb(252, 243, 243);
+}
+.botao1{
+    background-color: #f6ca2d;
+    margin-top: 20px;
+    width: 150px;
+    height:40px;
+    border-radius: 8px;
+    border:none;
+}
